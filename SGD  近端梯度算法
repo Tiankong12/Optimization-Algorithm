@@ -1,0 +1,8 @@
+基于SGD 的优化算法有：批量梯度下降（Batch gradient descent）、随机梯度下降（SGD）、小批量梯度下降（Mini-batch gradient descent）
+
+之后，基于SGD做了一些改进，包括：Momentum 法、Nesterov 法、Adagrad 法、Adadelta 法、RMSprop 法、Adam 法
+
+
+Proximal 算法（近端梯度算法）：求解L1很好的算法，因为L1不可导。
+
+
